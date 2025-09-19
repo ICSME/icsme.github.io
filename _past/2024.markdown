@@ -1,0 +1,8 @@
+---
+name:  ICSME 2024
+location:   Flagstaff, USA
+when: October 6-11 2024
+website: https://conf.researchr.org/home/icsme-2024
+gc: Igor Steinmacher, Marco Gerosa
+pc: Fabio Calefato, Sarah Nadi
+---

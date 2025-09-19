@@ -1,0 +1,8 @@
+---
+name:  ICSME 2025
+location:   Auckland, New Zealand
+when: September 7-12 2025
+website: https://conf.researchr.org/home/icsme-2025
+gc: Amjed Tahir, Stephen MacDonell
+pc: Matthias Galster, Dan Hao
+---
