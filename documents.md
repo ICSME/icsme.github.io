@@ -9,7 +9,7 @@ description: Official documents of the ICSME conference. You can contribute to t
 {% for document in site.documents %}
     <li>
         <h2><a class="poem-title" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }}</a></h2>
-        <p class="poem-meta">{{ document.last-revised | date last revision: '%B %-d, %Y' }}</p>
+        <p class="poem-meta">{{ document.last-revised | date: '%B %-d, %Y' }}</p>
       </li>
 {% endfor %}
 </ul>

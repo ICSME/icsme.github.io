@@ -1,8 +1,8 @@
 # Site settings
-title: IEEE International Conference on Software Maintenance and Engineering (ICSME)
+title: IEEE International Conference on Software Maintenance and Evolution (ICSME)
 email: icsme-sc@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  Official website of the IEEE International Conference on Software Maintenance and Engineering (ICSME)
+  Official website of the IEEE International Conference on Software Maintenance and Evolution (ICSME)
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: IEEEICSME
@@ -20,13 +20,11 @@ paginate_path: "/blog/page:num/"
 
 collections:
   past:
-    output: true
-    permalink: /past/:path/
+    output: false
   documents:
     output: true
     permalink: /documents/:path/
   sc:
-    output: true
-    permalink: /sc/:path/
+    output: false
 
 
