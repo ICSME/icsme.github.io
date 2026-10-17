@@ -1,7 +1,7 @@
 ---
 name:  Matthias Galster
 role:   
-website: https://profiles.canterbury.ac.nz/Matthias-Galster
-affiliation: University of Canterbury, New Zealand
+website: https://www.uni-bamberg.de/en/ese/team/matthias-galster/
+affiliation: University of Bamberg, Germany
 picture: pics/matthias.jpg
 ---
