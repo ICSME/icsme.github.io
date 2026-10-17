@@ -1,0 +1,35 @@
+- name: Michael J. Decker
+  role:
+  website: https://mdecker.net/
+  affiliation: Bowling Green State University, USA
+  picture: pics/michael.jpg
+
+- name: Matthias Galster
+  role:
+  website: https://www.uni-bamberg.de/en/ese/team/matthias-galster/
+  affiliation: University of Bamberg, Germany
+  picture: pics/matthias.jpg
+
+- name: Shinpei Hayashi
+  role: Chair
+  website: https://se.comp.isct.ac.jp/~hayashi/
+  affiliation: Institute of Science Tokyo, Japan
+  picture: pics/shinpei.png
+
+- name: Fabio Palomba
+  role:
+  website: https://fpalomba.github.io/
+  affiliation: University of Salerno, Italy
+  picture: pics/fabio.jpg
+
+- name: Igor Steinmacher
+  role:
+  website: https://igor.pro.br/
+  affiliation: Northern Arizona University, USA
+  picture: pics/igor.png
+
+- name: Amjed Tahir
+  role: Vice Chair
+  website: https://sites.google.com/site/amjedtahir/
+  affiliation: Massey University, New Zealand
+  picture: pics/amjed.jpg

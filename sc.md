@@ -6,7 +6,7 @@ permalink: /sc/
 
 
 
-{% for member in site.sc %}
+{% for member in site.data.sc %}
 
 <div class="project" style="margin-bottom:3em">
 <a href="{{ member.website }}" target="_blank">

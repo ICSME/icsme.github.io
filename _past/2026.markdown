@@ -1,8 +1,0 @@
----
-name:  ICSME 2026
-location:   Benevento, Italy
-when: September 14-18 2026
-website: https://conf.researchr.org/home/icsme-2026
-gc: Massimiliano Di Penta
-pc: Xin Xia, Bonita Sharif
----

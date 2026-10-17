@@ -19,12 +19,8 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  past:
-    output: false
   documents:
     output: true
     permalink: /documents/:path/
-  sc:
-    output: false
 
 
